@@ -1,4 +1,3 @@
-Este algoritmo tem como objetivo calcular a multiplicação de 9 por um número qualquer n (de 1 a 9) utilizando o truque da tabuada do 9. 
 
 O processo funciona da seguinte maneira:
 
