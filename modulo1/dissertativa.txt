@@ -1,1 +1,22 @@
+Este algoritmo tem como objetivo calcular a multiplicação de 9 por um número qualquer n (de 1 a 9) utilizando o truque da tabuada do 9. 
+
+O processo funciona da seguinte maneira:
+
+1. Entrada:
+   - O usuário informa um número n.
+
+2. Processamento:
+   - Calcula-se a dezena subtraindo 1 do número n: dezena = n - 1.
+   - Calcula-se a unidade subtraindo o número n de 10: unidade = 10 - n.
+   - Multiplica-se a dezena por 10 e soma-se com a unidade: resultado = dezena * 10 + unidade.
+
+3. Saída:
+   - O algoritmo exibe o valor final da multiplicação de 9 por n.
+
+Exemplo:
+Se n = 7
+Dezena = 7 - 1 = 6
+Unidade = 10 - 7 = 3
+Resultado = 6 * 10 + 3 = 63
+Portanto, 9 x 7 = 63
 
