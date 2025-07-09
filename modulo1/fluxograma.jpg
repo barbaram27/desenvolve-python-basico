@@ -1,11 +1,1 @@
-Início
-   Escreva("Digite um número de 1 a 9:")
-   Leia(n)
-   
-   dezena ← n - 1
-   unidade ← 10 - n
-   resultado ← dezena * 10 + unidade
-   
-   Escreva("O resultado de 9 x ", n, " é: ", resultado)
-Fim
 
